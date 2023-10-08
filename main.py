@@ -30,5 +30,5 @@ if __name__ == "__main__":
 
     recon(port_range)
 
-# You can use in terminal like: python3 main.py 8080 6767
+# You can use in terminal like: python3 main.py -p 8080 6767
 # Or only python3 main.py to scan all ports
