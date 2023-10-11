@@ -14,4 +14,4 @@ to scan all ports
 Maybe you will find webcams exposed in the internet or some stuff like this!
 Don't use this code for bad things, use ethically!
 
-# Message me to get pentesting services or if you need any help
+# [Message me](https://www.linkedin.com/in/gutardivo) to get pentesting services or if you need any help
